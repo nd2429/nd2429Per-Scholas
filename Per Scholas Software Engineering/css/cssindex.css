@@ -1,0 +1,162 @@
+
+
+
+body{
+    background-color: darkseagreen;
+}
+
+h2{
+    text-align: center;
+    color: darkolivegreen;
+    font-weight: 500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+
+
+h3{
+    text-align: center;
+    color: darkolivegreen;
+    font-weight: 500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-size: 16px;
+    
+}
+
+#h3f {
+   
+   
+    color: purple;
+    text-decoration: underline;
+    font-size: 16pt;
+    padding: 5px;
+    border: 500px;
+    
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    text-align: center;
+    color:darkgreen
+    
+}
+
+p2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;        
+    font-size: 13px;
+color: #4FA095;
+
+
+
+}
+a{
+    color: purple;
+    font-size: small;
+    text-decoration: none;
+    width: 700px;
+    height: 500px;
+
+    
+}
+
+ul{
+color: darkgreen;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 14pt;
+text-align: left;
+
+}
+
+ol{
+color: darkgreen;
+font-family: cursive;
+font-size: 14pt;
+text-align: left;
+
+}
+
+
+
+ #interests {
+    height:350px;
+    width: 350px;
+    background-color: #B3FFAE;
+    position: relative;
+    display: inline-block;
+    left: 350px;
+    border-style: solid;
+    border-color: chocolate;
+    
+}
+
+
+
+.hobbies {
+   height: 350px;
+   width: 350px;
+    background-color: #CFFF8D;
+    position: relative;
+    display: inline-block;
+    border-style: solid;
+    border-color: chocolate;
+    
+    bottom: 355px;
+   left: 750px;
+}
+
+
+
+
+#image  {
+    width: 100%;
+    height: 100%;
+    
+
+
+
+}
+
+#div3 {
+
+    display: flex;
+    justify-content: center;
+    
+}
+
+#div4 {
+   padding: 15px; 
+   border: 900px;
+   margin:100px;
+   border: solid;
+    background-color: gold;
+    border-color: chocolate;
+    
+    
+
+}
+
+form {
+padding: 15px;
+border-style: solid;
+border-color: chocolate;
+color: purple;
+text-align: center;
+background-color: #db85e9;
+padding-left: 0 auto;
+}
+
+
+input[type=button] {
+background-color: aquamarine;    
+padding: 10px 25px;
+color:black
+}
+
+input[type=button]:hover {
+border: solid;
+background-color: coral;
+}
+

@@ -1,0 +1,68 @@
+
+
+    body{
+        background-color:  darkseagreen;
+    }
+    
+   
+    #image {
+        width: 500px;
+        height: 900px;
+       
+        
+    }
+    
+    #div1 {
+    
+        display: flex;
+        justify-content: center;
+        
+    }
+   
+   
+   
+   
+    p{
+    font-family: sans-serif;
+    text-align: left;
+    color: rgb(138, 11, 133);
+    
+}
+
+    h1{
+        text-align: center;
+        color: rgb(73, 27, 117);
+        font-weight: 500px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-decoration: underline;
+    }
+    
+    
+
+    h2{
+        text-align: left;
+        color: rgb(73, 27, 117);
+        font-weight: 500px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-decoration: underline;
+    }
+    
+
+
+    h3{
+        text-align: left;
+        color: rgb(73, 27, 117);
+        font-weight: 500px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-decoration: underline;
+    }
+
+     
+ 
+
+        a{
+    color: purple;
+    font-size: small;
+    text-decoration: none;
+
+}
