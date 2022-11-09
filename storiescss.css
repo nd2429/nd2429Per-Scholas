@@ -1,0 +1,161 @@
+
+    body {
+        background-color:  darkseagreen;
+        
+    }
+
+    p {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+        color: rgb(13, 131, 92);
+
+    }
+
+    #para1,
+    #para2 {
+
+        color: rgb(214, 32, 105);
+        font-size: 14pt;
+        font-family: sans-serif;
+    }
+
+    #div3 {
+
+        background-color: #98A8F8;
+        padding: 15px; 
+   border: 900px;
+   margin:100px;
+   border: solid;
+   
+    }
+
+    #div4 {
+        background-color: #E5EBB2;
+        padding: 15px; 
+   border: 900px;
+   margin:100px;
+   border: solid;
+   
+    }
+
+    #div3,
+    #div4 {
+
+        border: solid;
+        border-color: cadetblue;
+        bottom: 300px;
+
+    }
+
+#div1 {
+
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+#div2 {
+
+    background-color: #FFDDD2;
+border: solid;
+border-color: cadetblue;
+padding: 15px; 
+   border: 900px;
+   margin:100px;
+   border: solid;
+
+}
+
+
+#image {
+
+width: 400px;
+
+
+}
+
+
+
+    h1 {
+        text-align: center;
+        color: rgb(78, 47, 107);
+        font-weight: 500px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-decoration: underline;
+    }
+
+
+
+    h2 {
+        text-align: center;
+        color: rgb(78, 47, 107);
+        font-weight: 500px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-decoration: underline;
+    }
+
+
+
+    h3 {
+        text-align: left;
+        color: rgb(78, 47, 107);
+        font-weight: 500px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-decoration: underline;
+    }
+
+    #h3c,
+    #h3b {
+        color: blue;
+    }
+
+
+    a {
+        color: purple;
+        font-size: small;
+        text-decoration: none;
+
+    }
+
+
+    #table {
+        border-style: hidden;
+        background-color: lightgrey;
+        width: 700px;
+        height: 300px;
+        margin: 0 auto;
+    }
+
+    th {
+        height: 40px;
+        color: rgb(226, 36, 36);
+
+    }
+
+    td {
+        color: green;
+        text-align: center;
+
+
+    }
+
+    th,
+    td {
+
+        border-top: hidden;
+        border-left: none;
+        border-right: none;
+        border-bottom: 1px solid rgb(65, 148, 86);
+    }
+
+    tr:hover {
+        background-color: coral;
+    }
+
+    img {
+        width: 800px;
+        height: 400px;
+        border: rgb(226, 36, 36);
+
+    }
